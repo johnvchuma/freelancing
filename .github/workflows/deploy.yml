@@ -23,7 +23,7 @@ jobs:
         id: deploy
         run: |
           aws deploy create-deployment \
-          --application-name myWebsite \
-          --deployment-group-name MyWebsiteDeplooymentGroup \
+          --application-name freelancing \
+          --deployment-group-name freelancing-group \
           --deployment-config-name CodeDeployDefault.OneAtATime \
           --github-location repository=${{ github.repository }},commitId=${{ github.sha }}

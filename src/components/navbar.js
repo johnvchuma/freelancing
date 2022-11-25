@@ -44,8 +44,8 @@ const NavigationBar = () => {
               </Nav.Link>
               <Nav.Link
                 style={{
-                  fontWeight: 650,
-                  color: "#00000098",
+                  fontWeight: 600,
+                  color: "#000000",
                   fontSize: 14
                 }}
                 href="#link"
@@ -55,8 +55,8 @@ const NavigationBar = () => {
               </Nav.Link>
               <Nav.Link
                 style={{
-                  fontWeight: 650,
-                  color: "#00000098",
+                  fontWeight: 600,
+                  color: "#000000",
                   fontSize: 14
                 }}
                 href="#link"
@@ -66,8 +66,8 @@ const NavigationBar = () => {
               </Nav.Link>
               <Nav.Link
                 style={{
-                  fontWeight: 650,
-                  color: "#00000098",
+                  fontWeight: 600,
+                  color: "#000000",
                   fontSize: 14
                 }}
                 href="#link"
@@ -77,8 +77,8 @@ const NavigationBar = () => {
               </Nav.Link>
               <Nav.Link
                 style={{
-                  fontWeight: 650,
-                  color: "#00000098",
+                  fontWeight: 600,
+                  color: "#000000",
                   fontSize: 14
                 }}
                 href="#link"

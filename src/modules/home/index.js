@@ -10,7 +10,8 @@ import {
   Stack
 } from "react-bootstrap";
 import NavigationBar from "../../components/navbar";
-import { BsArrowRight } from "react-icons/bs";
+import { BsAlt, BsArrowRight, BsArrowUpRight } from "react-icons/bs";
+import { ImArrowUpRight2 } from "react-icons/im";
 
 const Index = () => {
   return (
@@ -96,15 +97,18 @@ const Index = () => {
               >
                 Hire Me
               </Button>
-              <div
-                style={{
-                  fontSize: "15px",
-                  fontWeight: "650",
-                  color: "#000000"
-                }}
-              >
-                projects
-              </div>
+              <Stack direction="horizontal">
+                <div
+                  style={{
+                    fontSize: "15px",
+                    fontWeight: "650",
+                    color: "#000000"
+                  }}
+                >
+                  projects
+                </div>
+                <ImArrowUpRight2 className="ms-1" />
+              </Stack>
             </Stack>
             <div
               className="pt-3"

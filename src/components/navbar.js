@@ -35,7 +35,7 @@ const NavigationBar = () => {
                 style={{
                   fontWeight: 650,
                   color: "#000000",
-                  fontSize: 14
+                  fontSize: 15
                 }}
                 href="#home"
                 className="me-2"
@@ -46,7 +46,7 @@ const NavigationBar = () => {
                 style={{
                   fontWeight: 600,
                   color: "#000000",
-                  fontSize: 14
+                  fontSize: 15
                 }}
                 href="#link"
                 className="me-2"
@@ -57,7 +57,7 @@ const NavigationBar = () => {
                 style={{
                   fontWeight: 600,
                   color: "#000000",
-                  fontSize: 14
+                  fontSize: 15
                 }}
                 href="#link"
                 className="me-2"
@@ -68,7 +68,7 @@ const NavigationBar = () => {
                 style={{
                   fontWeight: 600,
                   color: "#000000",
-                  fontSize: 14
+                  fontSize: 15
                 }}
                 href="#link"
                 className="me-2"
@@ -79,7 +79,7 @@ const NavigationBar = () => {
                 style={{
                   fontWeight: 600,
                   color: "#000000",
-                  fontSize: 14
+                  fontSize: 15
                 }}
                 href="#link"
               >
@@ -92,7 +92,7 @@ const NavigationBar = () => {
                 style={{
                   borderRadius: 0,
                   fontWeight: 650,
-                  fontSize: 14,
+                  fontSize: 15,
                   backgroundColor: "white",
                   color: "black",
                   border: "2px solid #00000070"

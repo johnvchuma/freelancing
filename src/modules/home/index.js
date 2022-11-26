@@ -54,7 +54,7 @@ const Index = () => {
             <p
               className="pt-2"
               style={{
-                fontSize: "14px",
+                fontSize: "16px",
                 fontWeight: "600",
                 color: "#000000"
               }}
@@ -62,7 +62,7 @@ const Index = () => {
               I develop full-stack{" "}
               <span
                 style={{
-                  fontSize: "14px",
+                  fontSize: "15px",
                   fontWeight: "650",
                   color: "#000000"
                 }}
@@ -122,7 +122,7 @@ const Index = () => {
             </div>
             <div
               style={{
-                fontSize: "14px",
+                fontSize: "15px",
                 fontWeight: "600",
                 color: "#000000"
               }}
@@ -143,7 +143,7 @@ const Index = () => {
                 </div>
                 <div
                   style={{
-                    fontSize: "14px",
+                    fontSize: "15px",
                     fontWeight: "600",
                     color: "#000000"
                   }}
@@ -164,7 +164,7 @@ const Index = () => {
                 </div>
                 <div
                   style={{
-                    fontSize: "14px",
+                    fontSize: "15px",
                     fontWeight: "600",
                     color: "#000000"
                   }}
@@ -281,7 +281,7 @@ const Index = () => {
         </Col>
         <Col
           className="mx-0 px-0 text-start"
-          style={{ backgroundColor: "#ded1c1", height: "121vh" }}
+          style={{ backgroundColor: "#ded1c1" }}
         >
           <br />
           <Row>
@@ -321,7 +321,7 @@ const Index = () => {
                   style={{
                     height: "50px",
                     backgroundColor: "white",
-                    fontSize: "14px",
+                    fontSize: "15px",
                     fontWeight: "600"
                   }}
                   className="d-flex align-items-center justify-content-center px-2"
